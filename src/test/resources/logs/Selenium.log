@@ -1,0 +1,11 @@
+18/07/2022 15:44:24 DEBUG devpinoyLogger:75 - Config File Loaded !!!
+18/07/2022 15:44:24 DEBUG devpinoyLogger:90 - OR File Loaded !!!
+18/07/2022 15:44:26 DEBUG devpinoyLogger:100 - Chrome Launched !!!
+18/07/2022 15:44:29 DEBUG devpinoyLogger:23 - Navigated To: https://centralstg.morsum.co/
+18/07/2022 15:44:29 DEBUG devpinoyLogger:24 - Start SupplierProductCheck...!!!
+18/07/2022 15:44:43 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+18/07/2022 15:44:43 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+18/07/2022 15:44:43 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+18/07/2022 15:44:43 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+18/07/2022 15:44:43 DEBUG cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/satishpericherla/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+18/07/2022 15:44:44 DEBUG devpinoyLogger:171 - Test Suite Execution Completed !!!

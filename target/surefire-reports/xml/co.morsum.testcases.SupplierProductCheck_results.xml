@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SupplierProductCheck"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="43.777">
+  <properties />
+  
+  
+            <testcase name="supplierProductCheck" time="43.777" classname="co.morsum.testcases.SupplierProductCheck" />
+      
+</testsuite>

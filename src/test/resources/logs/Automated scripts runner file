@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Dash Automation">
+
+    <listeners>
+      <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+      <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/> 
+       <listener class-name="co.morsum.listeners.CustomListeners"/>
+    </listeners>
+
+    <test name ="CentralBOLogin ShareLocation">
+         <classes>
+         <class name="co.morsum.testcases.CentralBOLoginShareLocation"/>
+         </classes>
+    </test> <!-- Test -->
+    
+    <test name ="DashLogin CheckLocation">
+         <classes>
+         <class name="co.morsum.testcases.DashLoginCheckLocation"/>
+         </classes>
+    </test> <!-- Test -->
+    
+    <test name ="OperatorOrderFlowCheck">
+         <classes>
+         <class name="co.morsum.testcases.OperatorOrderFlowCheck"/>
+         </classes>
+    </test> <!-- Test -->
+    
+    <test name ="DSROrderFlowCheck">
+         <classes>
+         <class name="co.morsum.testcases.DSROrderFlowCheck"/>
+         </classes>
+    </test> <!-- Test -->
+    
+    <test name ="SupplierTabCheck">
+         <classes>
+         <class name="co.morsum.testcases.SupplierTabCheck"/>
+         </classes>
+    </test> <!-- Test -->
+    
+     <test name ="OrdersTabCheck">
+         <classes>
+         <class name="co.morsum.testcases.OrdersTabCheck"/>
+         </classes>
+    </test> <!-- Test -->
+    
+    <test name ="OperatorLocationCreate">
+         <classes>
+         <class name="co.morsum.testcases.OperatorLocationCreate"/>
+         </classes>
+    </test> <!-- Test -->
+    
+    <test name ="SignUpEmailFlow">
+         <classes>
+         <class name="co.morsum.testcases.SignUpEmailFlow"/>
+         </classes>
+    </test> <!-- Test -->
+    
+    <test name ="ProductIndexPageSearch">
+         <classes>
+         <class name="co.morsum.testcases.ProductIndexPageSearch"/>
+         </classes>
+    </test> <!-- Test -->
+    
+    <test name ="ProductDetailsPageCheck">
+         <classes>
+         <class name="co.morsum.testcases.ProductDetailsPageCheck"/>
+         </classes>
+    </test> <!-- Test -->
+    
+    <test name ="ShoppingListsCreateCheck">
+         <classes>
+         <class name="co.morsum.testcases.ShoppingListsCreateCheck"/>
+         </classes>
+    </test> <!-- Test -->
+    
+    <test name ="ShoppinglistAddtoCart">
+         <classes>
+         <class name="co.morsum.testcases.ShoppinglistAddtoCart"/>
+         </classes>
+    </test> <!-- Test -->
+    
+    
+</suite> <!-- Suite -->

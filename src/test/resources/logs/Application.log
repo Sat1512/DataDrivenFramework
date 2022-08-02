@@ -1,0 +1,6 @@
+18/07/2022 15:44:24 DEBUG devpinoyLogger:75 - Config File Loaded !!!
+18/07/2022 15:44:24 DEBUG devpinoyLogger:90 - OR File Loaded !!!
+18/07/2022 15:44:26 DEBUG devpinoyLogger:100 - Chrome Launched !!!
+18/07/2022 15:44:29 DEBUG devpinoyLogger:23 - Navigated To: https://centralstg.morsum.co/
+18/07/2022 15:44:29 DEBUG devpinoyLogger:24 - Start SupplierProductCheck...!!!
+18/07/2022 15:44:44 DEBUG devpinoyLogger:171 - Test Suite Execution Completed !!!
